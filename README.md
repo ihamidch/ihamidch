@@ -1,8 +1,4 @@
-## Hi there 👋
-
-<!--
-**ihamidch/ihamidch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [ Hamid Rafique] 👋
 ### Junior AI Engineer | RAG & LLM Specialist
 
 I’m a passionate developer focused on building **Retrieval-Augmented Generation (RAG)** systems and high-performance AI backends. Currently exploring the intersection of **Agentic AI** and **Vector Databases**.
@@ -33,15 +29,4 @@ A full-stack RAG app that lets you chat with any YouTube video transcript using 
 ## 📫 How to reach me
 - **LinkedIn:** [Your Profile Link]
 - **Portfolio:** [Your Website/Linktree]
-- **Email:** [Your Email]
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Email:** [hamidch0866@gmail.com]
