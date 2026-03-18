@@ -27,6 +27,6 @@ A full-stack RAG app that lets you chat with any YouTube video transcript using 
 ---
 
 ## 📫 How to reach me
-- **LinkedIn:** [Your Profile Link]
+- **LinkedIn:** [[Your Profile Link](https://www.linkedin.com/in/hamid-rafique-a75b9a3a5/)]
 - **Portfolio:** [Your Website/Linktree]
 - **Email:** [hamidch0866@gmail.com]
