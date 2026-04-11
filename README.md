@@ -1,32 +1,37 @@
-# Hi there, I'm [ Hamid Rafique] 👋
-### Junior AI Engineer | RAG & LLM Specialist
+# Hi, I'm Hamid Rafique 👋
 
-I’m a passionate developer focused on building **Retrieval-Augmented Generation (RAG)** systems and high-performance AI backends. Currently exploring the intersection of **Agentic AI** and **Vector Databases**.
-
----
-
-## 🛠️ My Tech Stack
-- **Languages:** Python, SQL, JavaScript
-- **AI Frameworks:** LangChain, LangGraph, LlamaIndex
-- **Models & APIs:** Llama 3.3, Groq, OpenAI, HuggingFace
-- **Data & Vectors:** FAISS, PostgreSQL, Pydantic
-- **DevOps:** Docker, Git, FastAPI, Streamlit
+### 🚀 Full-Stack AI Engineer & DevOps Specialist
+I specialize in building scalable AI-driven applications using the **MERN Stack**, **Next.js**, and **LLMOps**. Currently a final-year CS student at the **University of Sahiwal**.
 
 ---
 
-## 📊 My GitHub Stats
-![My Stats](https://github-readme-stats.vercel.app/api?username=ihamidch&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihamidch&layout=compact&theme=radical)
+### 🛠️ Technical Toolkit
+- **Languages:** Python, JavaScript, C++, SQL, LaTeX
+- **AI/ML:** LangChain, RAG Architecture, Llama 3.3, Computer Vision
+- **Full-Stack:** Next.js 15, React, Node.js, Express, Laravel, GraphQL
+- **Cloud & DevOps:** AWS, Docker, Terraform, GitHub Actions
 
 ---
 
-## 🚀 Featured Project
-### [YouTube AI Context Analyst](https://github.com/ihamidch/ai-chatbot-portfolio)
-A full-stack RAG app that lets you chat with any YouTube video transcript using **FastAPI**, **FAISS**, and **Llama 3.3**.
+### 📂 Featured Projects
+
+#### [Aqua Insights](https://aqua-insights.vercel.app/)
+*Python | ML | Data Analysis*
+- AI model to assess water purity levels with interactive dashboards.
+
+#### [MoodSnap](https://drive.google.com/file/d/1YGeR2VAcuSMpikYF-UIMuGQRbnowNqrJ/view)
+*Flutter | Python | AI*
+- AI gallery manager that organizes photos using facial emotion recognition.
+
+#### [Sehat Online](https://sehat-online-frontend.vercel.app/)
+*Next.js | MSSQL | AI/NLP*
+- AI-powered medical appointment system with an integrated NLP chatbot.
 
 ---
 
-## 📫 How to reach me
-- **LinkedIn:** [[Your Profile Link](https://www.linkedin.com/in/hamid-rafique-a75b9a3a5/)]
-- **Portfolio:** [Your Website/Linktree]
-- **Email:** [hamidch0866@gmail.com]
+### 🏆 Leadership & Certifications
+- **Beta Microsoft Learn Student Ambassador** (University of Sahiwal)
+- **HCIA-AI** (Huawei Certified AI Associate)
+- **Azure Data Scientist Associate** (Microsoft)
+
+📫 **Reach me at:** [hamidch0866@gmail.com](mailto:hamidch0866@gmail.com)
