@@ -1,64 +1,78 @@
-# Hamid Rafique | Full-Stack MERN Engineer
+# HAMID RAFIQUE
+### MERN Stack Developer | SaaS & Full-Stack Web Apps
 
-I build production-ready web apps with **React, Node.js, Express, MongoDB**, and modern deployment workflows.
-
-- Open to: **Full-Stack / MERN / Frontend Engineer** roles (Remote or On-site)
-- Location: Sahiwal, Punjab, Pakistan
-- Email: **hamidch0866@gmail.com**
-- LinkedIn: **https://www.linkedin.com/in/hamid-rafique-4605242b8/**
+I build scalable, production-ready web applications using React, Node.js, and MongoDB.
 
 ---
 
-## What I Build
+## About Me
 
-- Scalable full-stack SaaS apps (auth, dashboards, APIs, DB design)
-- Clean UI with React + Tailwind
-- REST APIs with secure JWT auth
-- Deployment pipelines on Vercel/Cloud platforms
-- Real-world CRUD, collaboration, and task-management systems
-
----
-
-## Featured Project
-
-### FlowBoard - Full-Stack SaaS Task Management
-**MERN | JWT | MongoDB Atlas | Drag-and-Drop | Activity Logs**
-
-A Trello-style task management platform with authentication, boards/lists/tasks CRUD, assignment, due dates, and production deployment.
-
-- Live App: https://client-eight-puce-44.vercel.app
-- Live API: https://server-xi-khaki-22.vercel.app
-- Repository: https://github.com/ihamidch/Full-stack-task-management
-
-**Key highlights:**
-- JWT auth and protected APIs
-- Board/list/task architecture with MongoDB schema design
-- Drag-and-drop task movement
-- Activity tracking and collaboration features
-- Deploy-ready env configuration and documentation
+I’m a MERN Stack Developer focused on building SaaS platforms, admin dashboards, and marketplace-style web applications.  
+I work across the full stack, from responsive frontend interfaces to secure backend APIs and database design.  
+I enjoy building real-world systems with clean architecture, authentication, and role-based workflows.  
+I’m especially interested in scalable backend systems and production-ready deployments.
 
 ---
 
 ## Tech Stack
 
-**Frontend:** React, JavaScript, Tailwind CSS  
-**Backend:** Node.js, Express.js, JWT  
-**Database:** MongoDB Atlas, Mongoose  
-**Tools:** Git, GitHub, Postman, Vercel
+### Frontend
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-1B1B1B?style=for-the-badge&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0E1A12?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![JWT](https://img.shields.io/badge/JWT-1F1F1F?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-1A1A1A?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-111827?style=for-the-badge&logo=render&logoColor=46E3B7)
+![Postman](https://img.shields.io/badge/Postman-1A1A1A?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 ---
 
-## Currently Focused On
+## Featured Projects
 
-- Advanced React architecture
-- Backend performance and API security
-- Building portfolio projects with real business value
+### MERN E-commerce SaaS Platform
+Full-stack e-commerce system with authentication, cart, checkout, and admin dashboard.
+
+- Live: https://ecommerece-mern-web.vercel.app  
+- GitHub: https://github.com/ihamidch/Ecommerece
+
+### Freelancer Marketplace SaaS Platform
+Marketplace system with job posting, freelancer workflows, and role-based dashboard controls.
+
+- Live: https://frontend-kappa-amber-29.vercel.app  
+- GitHub: https://github.com/ihamidch/Freelancer-Marketplace
+
+### Task Management System
+Task workflow platform with authentication, CRUD operations, and structured task handling.
+
+- Live: https://client-eight-puce-44.vercel.app  
+- GitHub: https://github.com/ihamidch/Full-stack-task-management
 
 ---
 
-## Let’s Connect
+## GitHub Stats
 
-I’m actively looking for opportunities where I can contribute as a **MERN / Full-Stack Developer**.
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ihamidch&show_icons=true&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihamidch&layout=compact&theme=default&hide_border=true" height="165" />
+</p>
 
-- Email: hamidch0866@gmail.com
-- LinkedIn: https://www.linkedin.com/in/hamid-rafique-4605242b8/
+<p>
+  <img src="https://streak-stats.demolab.com?user=ihamidch&theme=default&hide_border=true" height="165" />
+</p>
+
+---
+
+## Contact
+
+- Email: hamidch0866@gmail.com  
+- LinkedIn: https://linkedin.com/in/hamid-rafique-a75b9a3a5  
+- Portfolio: https://porfolio-ihamidchs-projects.vercel.app
