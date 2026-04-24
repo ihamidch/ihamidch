@@ -1,15 +1,15 @@
 # HAMID RAFIQUE
-### MERN Stack Developer | SaaS & Full-Stack Web Apps
+### MERN & AI Engineer | SaaS & Full-Stack Web Apps
 
-I build scalable, production-ready web applications using React, Node.js, and MongoDB.
+I build scalable, production-ready MERN and AI-powered web applications using React, Node.js, MongoDB, Python, and FastAPI.
 
 ---
 
 ## About Me
 
-I’m a MERN Stack Developer focused on building SaaS platforms, admin dashboards, and marketplace-style web applications.  
-I work across the full stack, from responsive frontend interfaces to secure backend APIs and database design.  
-I enjoy building real-world systems with clean architecture, authentication, and role-based workflows.  
+I’m a MERN & AI Engineer focused on building SaaS platforms, admin dashboards, marketplace-style web applications, and LLM-powered systems.  
+I work across the full stack, from responsive frontend interfaces to secure backend APIs, vector search pipelines, and database design.  
+I enjoy building real-world systems with clean architecture, authentication, role-based workflows, and retrieval-augmented AI features.  
 I’m especially interested in scalable backend systems and production-ready deployments.
 
 ---
@@ -26,6 +26,14 @@ I’m especially interested in scalable backend systems and production-ready dep
 ![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0E1A12?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![JWT](https://img.shields.io/badge/JWT-1F1F1F?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0B1E1A?style=for-the-badge&logo=fastapi&logoColor=00C7B7)
+
+### AI / RAG
+![LLMs](https://img.shields.io/badge/LLMs-111111?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1A1A1A?style=for-the-badge&logo=chainlink&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-111111?style=for-the-badge&logo=semanticweb&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-1A1A1A?style=for-the-badge&logo=databricks&logoColor=FF3621)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-1A1A1A?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-1A1A1A?style=for-the-badge&logo=git&logoColor=F05032)
@@ -55,6 +63,22 @@ Task workflow platform with authentication, CRUD operations, and structured task
 
 - Live: https://client-eight-puce-44.vercel.app  
 - GitHub: https://github.com/ihamidch/Full-stack-task-management
+
+### TalentScout AI
+AI recruitment workflow platform with LLM integration and role-aware dashboards.
+
+- Live: https://talentscout-ai-web.vercel.app  
+- GitHub: https://github.com/ihamidch/talentscout-ai
+
+### YouTube AI Context Analyst (RAG)
+RAG-based AI assistant for YouTube context understanding.
+
+- GitHub: https://github.com/ihamidch/YouTube-AI-Context-Analyst-RAG-
+
+### Hybrid Search RAG Engine
+Hybrid semantic + keyword retrieval engine with FastAPI and vector search.
+
+- GitHub: https://github.com/ihamidch/Hybrid-Search-RAG-Engine
 
 ---
 
