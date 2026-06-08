@@ -1,102 +1,102 @@
 # HAMID RAFIQUE
-### MERN & AI Engineer | SaaS & Full-Stack Web Apps
+### Full-Stack AI Engineer | MERN, AI/ML & DevOps Specialist
 
-I build scalable, production-ready MERN and AI-powered web applications using React, Node.js, MongoDB, Python, and FastAPI.
-
----
-
-## About Me
-
-I’m a MERN & AI Engineer focused on building SaaS platforms, admin dashboards, marketplace-style web applications, and LLM-powered systems.  
-I work across the full stack, from responsive frontend interfaces to secure backend APIs, vector search pipelines, and database design.  
-I enjoy building real-world systems with clean architecture, authentication, role-based workflows, and retrieval-augmented AI features.  
-I’m especially interested in scalable backend systems and production-ready deployments.
+I architect scalable, production-ready full-stack applications, intelligent LLM-powered systems, and automated deployment pipelines using the MERN stack, Python, FastAPI, and modern cloud infrastructure.
 
 ---
 
-## Tech Stack
+## 🚀 About Me
 
-### Frontend
+- **Full-Stack Engineering:** I engineer complex SaaS platforms, dual-sided marketplace systems, and unified role-based admin dashboards from scratch.
+- **AI/ML & Advanced RAG:** I construct semantic retrieval systems, vector space search pipelines, and context-aware LLM agents using framework utilities like LangChain and FastAPI.
+- **DevOps & Infrastructure:** I focus on containerizing applications, implementing continuous integration (CI/CD) automations, managing cloud deployments, and optimizing runtime performance.
+
+Driven by clean code architecture, system scalability, and automated testing pipelines.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend & Mobile
 ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-### Backend
+### Backend Frameworks & Security
 ![Node.js](https://img.shields.io/badge/Node.js-1B1B1B?style=for-the-badge&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-0E1A12?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![JWT](https://img.shields.io/badge/JWT-1F1F1F?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0B1E1A?style=for-the-badge&logo=fastapi&logoColor=00C7B7)
+![JWT](https://img.shields.io/badge/JWT-1F1F1F?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### AI / RAG
-![LLMs](https://img.shields.io/badge/LLMs-111111?style=for-the-badge&logo=openai&logoColor=white)
+### Databases & AI / RAG Architecture
+![MongoDB](https://img.shields.io/badge/MongoDB-0E1A12?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1A1A1A?style=for-the-badge&logo=chainlink&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-111111?style=for-the-badge&logo=semanticweb&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-1A1A1A?style=for-the-badge&logo=databricks&logoColor=FF3621)
 ![HuggingFace](https://img.shields.io/badge/Hugging_Face-1A1A1A?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-1A1A1A?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
+### DevOps & Cloud Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-111827?style=for-the-badge&logo=render&logoColor=46E3B7)
-![Postman](https://img.shields.io/badge/Postman-1A1A1A?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Git](https://img.shields.io/badge/Git-1A1A1A?style=for-the-badge&logo=git&logoColor=F05032)
 
 ---
 
-## Featured Projects
+## 📁 Featured Production Systems
 
-### MERN E-commerce SaaS Platform
-Full-stack e-commerce system with authentication, cart, checkout, and admin dashboard.
+### 🤖 Intel & RAG Deployments
 
-- Live: https://ecommerece-mern-web.vercel.app  
-- GitHub: https://github.com/ihamidch/Ecommerece
+#### TalentScout AI
+AI recruitment workflow platform with custom LLM evaluation logic and interactive candidate analytics dashboards.
+- **Live Build:** [talentscout-ai-web.vercel.app](https://talentscout-ai-web.vercel.app)
+- **Source Code:** [github.com/ihamidch/talentscout-ai](https://github.com/ihamidch/talentscout-ai)
 
-### Freelancer Marketplace SaaS Platform
-Marketplace system with job posting, freelancer workflows, and role-based dashboard controls.
+#### Hybrid Search RAG Engine
+Enterprise-grade semantic + keyword retrieval engine featuring asynchronous processing endpoints.
+- **Source Code:** [github.com/ihamidch/Hybrid-Search-RAG-Engine](https://github.com/ihamidch/Hybrid-Search-RAG-Engine)
 
-- Live: https://frontend-kappa-amber-29.vercel.app  
-- GitHub: https://github.com/ihamidch/Freelancer-Marketplace
+#### YouTube AI Context Analyst (RAG)
+Context-driven extraction assistant utilizing mathematical vector embeddings to parse long-form streaming media transcript data.
+- **Source Code:** [github.com/ihamidch/YouTube-AI-Context-Analyst-RAG-](https://github.com/ihamidch/YouTube-AI-Context-Analyst-RAG-)
 
-### Task Management System
-Task workflow platform with authentication, CRUD operations, and structured task handling.
+### 🌐 Full-Stack SaaS Platforms
 
-- Live: https://client-eight-puce-44.vercel.app  
-- GitHub: https://github.com/ihamidch/Full-stack-task-management
+#### MERN E-commerce Platform
+End-to-end commercial engine tracking secure custom sessions, active carts, automated checkouts, and historical ledger state updates.
+- **Live Build:** [ecommerece-mern-web.vercel.app](https://ecommerece-mern-web.vercel.app)
+- **Source Code:** [github.com/ihamidch/Ecommerece](https://github.com/ihamidch/Ecommerece)
 
-### TalentScout AI
-AI recruitment workflow platform with LLM integration and role-aware dashboards.
+#### Freelancer Marketplace SaaS
+Dual-sided ecosystem featuring transactional task pipelines, milestone matching, and granular multi-tenant role configurations.
+- **Live Build:** [frontend-kappa-amber-29.vercel.app](https://frontend-kappa-amber-29.vercel.app)
+- **Source Code:** [github.com/ihamidch/Freelancer-Marketplace](https://github.com/ihamidch/Freelancer-Marketplace)
 
-- Live: https://talentscout-ai-web.vercel.app  
-- GitHub: https://github.com/ihamidch/talentscout-ai
-
-### YouTube AI Context Analyst (RAG)
-RAG-based AI assistant for YouTube context understanding.
-
-- GitHub: https://github.com/ihamidch/YouTube-AI-Context-Analyst-RAG-
-
-### Hybrid Search RAG Engine
-Hybrid semantic + keyword retrieval engine with FastAPI and vector search.
-
-- GitHub: https://github.com/ihamidch/Hybrid-Search-RAG-Engine
+#### Task Management System
+Concurrent task pipeline enforcing safe DB structural updates, token verification boundaries, and optimized lookup query times.
+- **Live Build:** [client-eight-puce-44.vercel.app](https://client-eight-puce-44.vercel.app)
+- **Source Code:** [github.com/ihamidch/Full-stack-task-management](https://github.com/ihamidch/Full-stack-task-management)
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Metrics
 
-<p>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ihamidch&show_icons=true&theme=default&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihamidch&layout=compact&theme=default&hide_border=true" height="165" />
 </p>
 
-<p>
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=ihamidch&theme=default&hide_border=true" height="165" />
 </p>
 
 ---
 
-## Contact
+## 📬 Connect With Me
 
-- Email: hamidch0866@gmail.com  
-- LinkedIn: https://linkedin.com/in/hamid-rafique-a75b9a3a5  
-- Portfolio: https://porfolio-ihamidchs-projects.vercel.app
+- **Email:** [hamidch0866@gmail.com](mailto:hamidch0866@gmail.com)
+- **LinkedIn:** [linkedin.com/in/hamid-rafique-a75b9a3a5](https://linkedin.com/in/hamid-rafique-a75b9a3a5)
+- **Interactive Portfolio:** [porfolio-ihamidchs-projects.vercel.app](https://porfolio-ihamidchs-projects.vercel.app)
