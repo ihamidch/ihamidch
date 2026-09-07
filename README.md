@@ -1,7 +1,7 @@
 # HAMID RAFIQUE
 ### Full-Stack AI Engineer | MERN, AI/ML & DevOps Specialist
 
-I architect scalable, production-ready full-stack applications, intelligent LLM-powered systems, and automated deployment pipelines using the MERN stack, Python, FastAPI, and modern cloud infrastructure.
+MERN Stack Developer | AI-Integrated Full-Stack Engineer — BS Computer Science, COMSATS University Islamabad (2025)
 
 ---
 
